@@ -1,0 +1,8 @@
+{
+  "name": "Paytm Merchant Loan Builder",
+  "description": "A comprehensive eligibility hub for merchants to track and achieve loan readiness through GMV milestones, document verification, and credit checks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
